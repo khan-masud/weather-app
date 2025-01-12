@@ -19,16 +19,22 @@ A simple and visually appealing weather application that provides real-time weat
 
 1. **Download or Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/khan-masud/weather-app.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Weather_App/1.\ Weather\ App
+   cd weather-app
    ```
 
 3. **Open `index.html` in a Browser**:
    You can double-click the `index.html` file or use a local development server like Live Server in VS Code for a better experience.
+
+## Live Demo
+
+```
+Visit : https://weather-app-masud.vercel.app
+```
 
 ## Project Structure
 
