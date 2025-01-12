@@ -62,9 +62,6 @@ Weather_App
 3. Click the search icon or press Enter.
 4. View the current weather conditions displayed on the screen.
 
-## Preview
-
-Add a screenshot or gif of the application here.
 
 ## License
 
