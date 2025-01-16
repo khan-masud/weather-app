@@ -28,8 +28,10 @@ body {
 }
 
 .search input {
+    flex: 1;
     border: 0;
     outline: 0;
+    width: 90%;
     background-color: #ebfffc;
     color: #555;
     padding: 10px 25px;
